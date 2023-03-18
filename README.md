@@ -1,8 +1,5 @@
 # TestReadme
 
-<style>
-</style>
-
 <div>
-  <h1>HelloWorld</h1>
+  <h1 style="color: red;">HelloWorld</h1>
 </div>
